@@ -193,6 +193,7 @@ header nav a.activo {
 
 .peliculas-recomendadas .contenedor-carousel .carousel .pelicula img {
 	width: 100%;
+	height: 400px;
 	vertical-align: top;
 }
 
